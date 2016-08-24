@@ -1,0 +1,2387 @@
+fileFormatVersion: 2
+guid: 600c0bfd3b8ba5b4cb53a478ae159a51
+timeCreated: 1438196117
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dick Gumshoe Clean_0
+    21300002: Dick Gumshoe Clean_1
+    21300004: Dick Gumshoe Clean_2
+    21300006: Dick Gumshoe Clean_3
+    21300008: Dick Gumshoe Clean_4
+    21300010: Dick Gumshoe Clean_5
+    21300012: Dick Gumshoe Clean_6
+    21300014: Dick Gumshoe Clean_7
+    21300016: Dick Gumshoe Clean_8
+    21300018: Dick Gumshoe Clean_9
+    21300020: Dick Gumshoe Clean_10
+    21300022: Dick Gumshoe Clean_11
+    21300024: Dick Gumshoe Clean_12
+    21300026: Dick Gumshoe Clean_13
+    21300028: Dick Gumshoe Clean_14
+    21300030: Dick Gumshoe Clean_15
+    21300032: Dick Gumshoe Clean_16
+    21300034: Dick Gumshoe Clean_17
+    21300036: Dick Gumshoe Clean_18
+    21300038: Dick Gumshoe Clean_19
+    21300040: Dick Gumshoe Clean_20
+    21300042: Dick Gumshoe Clean_21
+    21300044: Dick Gumshoe Clean_22
+    21300046: Dick Gumshoe Clean_23
+    21300048: Dick Gumshoe Clean_24
+    21300050: Dick Gumshoe Clean_25
+    21300052: Dick Gumshoe Clean_26
+    21300054: Dick Gumshoe Clean_27
+    21300056: Dick Gumshoe Clean_28
+    21300058: Dick Gumshoe Clean_29
+    21300060: Dick Gumshoe Clean_30
+    21300062: Dick Gumshoe Clean_31
+    21300064: Dick Gumshoe Clean_32
+    21300066: Dick Gumshoe Clean_33
+    21300068: Dick Gumshoe Clean_34
+    21300070: Dick Gumshoe Clean_35
+    21300072: Dick Gumshoe Clean_36
+    21300074: Dick Gumshoe Clean_37
+    21300076: Dick Gumshoe Clean_38
+    21300078: Dick Gumshoe Clean_39
+    21300080: Dick Gumshoe Clean_40
+    21300082: Dick Gumshoe Clean_41
+    21300084: Dick Gumshoe Clean_42
+    21300086: Dick Gumshoe Clean_43
+    21300088: Dick Gumshoe Clean_44
+    21300090: Dick Gumshoe Clean_45
+    21300092: Dick Gumshoe Clean_46
+    21300094: Dick Gumshoe Clean_47
+    21300096: Dick Gumshoe Clean_48
+    21300098: Dick Gumshoe Clean_49
+    21300100: Dick Gumshoe Clean_50
+    21300102: Dick Gumshoe Clean_51
+    21300104: Dick Gumshoe Clean_52
+    21300106: Dick Gumshoe Clean_53
+    21300108: Dick Gumshoe Clean_54
+    21300110: Dick Gumshoe Clean_55
+    21300112: Dick Gumshoe Clean_56
+    21300114: Dick Gumshoe Clean_57
+    21300116: Dick Gumshoe Clean_58
+    21300118: Dick Gumshoe Clean_59
+    21300120: Dick Gumshoe Clean_60
+    21300122: Dick Gumshoe Clean_61
+    21300124: Dick Gumshoe Clean_62
+    21300126: Dick Gumshoe Clean_63
+    21300128: Dick Gumshoe Clean_64
+    21300130: Dick Gumshoe Clean_65
+    21300132: Dick Gumshoe Clean_66
+    21300134: Dick Gumshoe Clean_67
+    21300136: Dick Gumshoe Clean_68
+    21300138: Dick Gumshoe Clean_69
+    21300140: Dick Gumshoe Clean_70
+    21300142: Dick Gumshoe Clean_71
+    21300144: Dick Gumshoe Clean_72
+    21300146: Dick Gumshoe Clean_73
+    21300148: Dick Gumshoe Clean_74
+    21300150: Dick Gumshoe Clean_75
+    21300152: Dick Gumshoe Clean_76
+    21300154: Dick Gumshoe Clean_77
+    21300156: Dick Gumshoe Clean_78
+    21300158: Dick Gumshoe Clean_79
+    21300160: Dick Gumshoe Clean_80
+    21300162: Dick Gumshoe Clean_81
+    21300164: Dick Gumshoe Clean_82
+    21300166: Dick Gumshoe Clean_83
+    21300168: Dick Gumshoe Clean_84
+    21300170: Dick Gumshoe Clean_85
+    21300172: Dick Gumshoe Clean_86
+    21300174: Dick Gumshoe Clean_87
+    21300176: Dick Gumshoe Clean_88
+    21300178: Dick Gumshoe Clean_89
+    21300180: Dick Gumshoe Clean_90
+    21300182: Dick Gumshoe Clean_91
+    21300184: Dick Gumshoe Clean_92
+    21300186: Dick Gumshoe Clean_93
+    21300188: Dick Gumshoe Clean_94
+    21300190: Dick Gumshoe Clean_95
+    21300192: Dick Gumshoe Clean_96
+    21300194: Dick Gumshoe Clean_97
+    21300196: Dick Gumshoe Clean_98
+    21300198: Dick Gumshoe Clean_99
+    21300200: Dick Gumshoe Clean_100
+    21300202: Dick Gumshoe Clean_101
+    21300204: Dick Gumshoe Clean_102
+    21300206: Dick Gumshoe Clean_103
+    21300208: Dick Gumshoe Clean_104
+    21300210: Dick Gumshoe Clean_105
+    21300212: Dick Gumshoe Clean_106
+    21300214: Dick Gumshoe Clean_107
+    21300216: Dick Gumshoe Clean_108
+    21300218: Dick Gumshoe Clean_109
+    21300220: Dick Gumshoe Clean_110
+    21300222: Dick Gumshoe Clean_111
+    21300224: Dick Gumshoe Clean_112
+    21300226: Dick Gumshoe Clean_113
+    21300228: Dick Gumshoe Clean_114
+    21300230: Dick Gumshoe Clean_115
+    21300232: Dick Gumshoe Clean_116
+    21300234: Dick Gumshoe Clean_117
+    21300236: Dick Gumshoe Clean_118
+    21300238: Dick Gumshoe Clean_119
+    21300240: Dick Gumshoe Clean_120
+    21300242: Dick Gumshoe Clean_121
+    21300244: Dick Gumshoe Clean_122
+    21300246: Dick Gumshoe Clean_123
+    21300248: Dick Gumshoe Clean_124
+    21300250: Dick Gumshoe Clean_125
+    21300252: Dick Gumshoe Clean_126
+    21300254: Dick Gumshoe Clean_127
+    21300256: Dick Gumshoe Clean_128
+    21300258: Dick Gumshoe Clean_129
+    21300260: Dick Gumshoe Clean_130
+    21300262: Dick Gumshoe Clean_131
+    21300264: Dick Gumshoe Clean_132
+    21300266: Dick Gumshoe Clean_133
+    21300268: Dick Gumshoe Clean_134
+    21300270: Dick Gumshoe Clean_135
+    21300272: Dick Gumshoe Clean_136
+    21300274: Dick Gumshoe Clean_137
+    21300276: Dick Gumshoe Clean_138
+    21300278: Dick Gumshoe Clean_139
+    21300280: Dick Gumshoe Clean_140
+    21300282: Dick Gumshoe Clean_141
+    21300284: Dick Gumshoe Clean_142
+    21300286: Dick Gumshoe Clean_143
+    21300288: Dick Gumshoe Clean_144
+    21300290: Dick Gumshoe Clean_145
+    21300292: Dick Gumshoe Clean_146
+    21300294: Dick Gumshoe Clean_147
+    21300296: Dick Gumshoe Clean_148
+    21300298: Dick Gumshoe Clean_149
+    21300300: Dick Gumshoe Clean_150
+    21300302: Dick Gumshoe Clean_151
+    21300304: Dick Gumshoe Clean_152
+    21300306: Dick Gumshoe Clean_153
+    21300308: Dick Gumshoe Clean_154
+    21300310: Dick Gumshoe Clean_155
+    21300312: Dick Gumshoe Clean_156
+    21300314: Dick Gumshoe Clean_157
+    21300316: Dick Gumshoe Clean_158
+    21300318: Dick Gumshoe Clean_159
+    21300320: Dick Gumshoe Clean_160
+    21300322: Dick Gumshoe Clean_161
+    21300324: Dick Gumshoe Clean_162
+    21300326: Dick Gumshoe Clean_163
+    21300328: Dick Gumshoe Clean_164
+    21300330: Dick Gumshoe Clean_165
+    21300332: Dick Gumshoe Clean_166
+    21300334: Dick Gumshoe Clean_167
+    21300336: Dick Gumshoe Clean_168
+    21300338: Dick Gumshoe Clean_169
+    21300340: Dick Gumshoe Clean_170
+    21300342: Dick Gumshoe Clean_171
+    21300344: Dick Gumshoe Clean_172
+    21300346: Dick Gumshoe Clean_173
+    21300348: Dick Gumshoe Clean_174
+    21300350: Dick Gumshoe Clean_175
+    21300352: Dick Gumshoe Clean_176
+    21300354: Dick Gumshoe Clean_177
+    21300356: Dick Gumshoe Clean_178
+    21300358: Dick Gumshoe Clean_179
+    21300360: Dick Gumshoe Clean_180
+    21300362: Dick Gumshoe Clean_181
+    21300364: Dick Gumshoe Clean_182
+    21300366: Dick Gumshoe Clean_183
+    21300368: Dick Gumshoe Clean_184
+    21300370: Dick Gumshoe Clean_185
+    21300372: Dick Gumshoe Clean_186
+    21300374: Dick Gumshoe Clean_187
+    21300376: Dick Gumshoe Clean_188
+    21300378: Dick Gumshoe Clean_189
+    21300380: Dick Gumshoe Clean_190
+    21300382: Dick Gumshoe Clean_191
+    21300384: Dick Gumshoe Clean_192
+    21300386: Dick Gumshoe Clean_193
+    21300388: Dick Gumshoe Clean_194
+    21300390: Dick Gumshoe Clean_195
+    21300392: Dick Gumshoe Clean_196
+    21300394: Dick Gumshoe Clean_197
+    21300396: Dick Gumshoe Clean_198
+    21300398: Dick Gumshoe Clean_199
+    21300400: Dick Gumshoe Clean_200
+    21300402: Dick Gumshoe Clean_201
+    21300404: Dick Gumshoe Clean_202
+    21300406: Dick Gumshoe Clean_203
+    21300408: Dick Gumshoe Clean_204
+    21300410: Dick Gumshoe Clean_205
+    21300412: Dick Gumshoe Clean_206
+    21300414: Dick Gumshoe Clean_207
+    21300416: Dick Gumshoe Clean_208
+    21300418: Dick Gumshoe Clean_209
+    21300420: Dick Gumshoe Clean_210
+    21300422: Dick Gumshoe Clean_211
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dick Gumshoe Clean_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12673
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 12673
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 12673
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 12673
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12430
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 12430
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 12430
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 12430
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12187
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 12187
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 12187
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 12187
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11944
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 11944
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 11944
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 11944
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11701
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 11701
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 11701
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_19
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 11701
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11458
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 11458
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 11458
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 11458
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11215
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 11215
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 11215
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_27
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 11215
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10972
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10972
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10972
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 10972
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10729
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10729
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10729
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 10729
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10486
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10486
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_38
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10486
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_39
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 10486
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10243
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10243
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10243
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_43
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 10243
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10000
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10000
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_47
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 10000
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9757
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 9757
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_50
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9757
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_51
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 9757
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9514
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 9514
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9514
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_55
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 9514
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9271
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 9271
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_58
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9271
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_59
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 9271
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9028
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_61
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 9028
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_62
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9028
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_63
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 9028
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8785
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8785
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_66
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8785
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_67
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 8785
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8542
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_69
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8542
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_70
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8542
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_71
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 8542
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8299
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_73
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8299
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_74
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8299
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_75
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 8299
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8056
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8056
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_78
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8056
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_79
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 8056
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7813
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_81
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 7813
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_82
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7813
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_83
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 7813
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7570
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_85
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 7570
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_86
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7570
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_87
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 7570
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7327
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_89
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 7327
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_90
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7327
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_91
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 7327
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7084
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_93
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 7084
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_94
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7084
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_95
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 7084
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6841
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6841
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_98
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6841
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_99
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 6841
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6598
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_101
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6598
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_102
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6598
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_103
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 6598
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6355
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_105
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6355
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_106
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6355
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_107
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 6355
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6112
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_109
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6112
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_110
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6112
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_111
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 6112
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5869
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_113
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5869
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_114
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5869
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_115
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 5869
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5626
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_117
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5626
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_118
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5626
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_119
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 5626
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5383
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_121
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5383
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_122
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5383
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_123
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 5383
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5140
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_125
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5140
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_126
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5140
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_127
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 5140
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4897
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_129
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 4897
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_130
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 4897
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_131
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 4897
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4654
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_133
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 4654
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_134
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 4654
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_135
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 4654
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4411
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_137
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 4411
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_138
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 4411
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_139
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 4411
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4168
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_141
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 4168
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_142
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 4168
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_143
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 4168
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3925
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_145
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3925
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_146
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3925
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_147
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3925
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3682
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_149
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3682
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_150
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3682
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_151
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3682
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3439
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_153
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3439
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_154
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3439
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_155
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3439
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3196
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_157
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3196
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_158
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3196
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_159
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3196
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2953
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_161
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2953
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_162
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2953
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_163
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2953
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2710
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_165
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2710
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_166
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2710
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_167
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2710
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2467
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_169
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2467
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_170
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2467
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_171
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2467
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2224
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_173
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2224
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_174
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2224
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_175
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2224
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1981
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_177
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1981
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_178
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1981
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_179
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1981
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1738
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_181
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1738
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_182
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1738
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_183
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1738
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1495
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_185
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1495
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_186
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1495
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_187
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1495
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1252
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_189
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1252
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_190
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1252
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_191
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1252
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_193
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1009
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_194
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1009
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_195
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1009
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_197
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 766
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_198
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 766
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_199
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 766
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_201
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 523
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_202
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 523
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_203
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 523
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_205
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 280
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_206
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 280
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_207
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 280
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_209
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 37
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_210
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 37
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dick Gumshoe Clean_211
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 37
+        width: 243
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
