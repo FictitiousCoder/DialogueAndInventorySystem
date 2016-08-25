@@ -1,5 +1,5 @@
 # Dialogue & Inventory System
-Assets one might find handy for creating an adventure game, but may work with games in need of contained assets in general.
+Unity Assets one might find handy for creating an adventure game, but may be suited for game and applications in need of contained assets in general.
 
 Both the dialogue system and the inventory system is heavily inspired by, but by no means meant to replicate, those seen in the Ace Attorney series.
 
