@@ -20,3 +20,7 @@ The DialogueContainer object decides the behaviour of the dialogue on a per-dial
 * Whether the dialogue should progress on its own, effectively disabling the user's input.
 * Whether to disable other user control's (such as player movement) while the dialogue is active.
 * What items or profiles—if any—should be recieved upon finishing the dialogue (this is for use in tandem with the inventory system).
+* <<PICTURE>>
+* 
+**_DialogueTrigger_** is a script you can utilize to trigger a piece of dialogue to begin printing to the screen and activate the dialogue UI. This is first and foremost for use with some sort of user-controlled game object within a scene. It can be used in both 2D and 3D spaces. Simply place the script onto a game object together with a corresponding trigger-collider. Upon the correct game obejct(by default this is whatever object bears the tag of 'Player) entering the collider, the dialogue is triggered either automatically or through player input, depending on what trigger type you choose in the inspector. You may also choose whether you want the dialogue to be repeatable, or whether you want it to only be triggered once. Lastly, in the object bearing the trigger, you need to reference the DialogueContainer you want it to trigger.
+
