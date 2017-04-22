@@ -6,7 +6,7 @@ Both the dialogue system and the inventory system is heavily inspired by, but by
 ## Dialogue System
 The scrolling text, potentially accompanied by a continuous sound effect, makes the simple text displayed far more engaging compared to if all the text was simply instantaneously displayed on the screen. Furthermore, the scrolling text, with pauses to the scrolling at given punctuation marks, adds a sense of rhythm to the text. It makes it "sound" more like the text is actually being spoken at the time of scrolling, which is exactly what we want for our dialogue. The pause should also be dependent on the punctuation mark: a full stop for example, should cause a longer pause than a comma. Text progression is controlled by the user in the sense that they push a key of your chocie to progress the next piece of text, and also allows the user to push and hold a key to speed up the scrolling effect.
 
-###How it works:
+### How it works:
 For use, it is recommended you utilize the UI-prefab or at least the DialogueCanvas prefab to set up the dialogue window.
 The **_DialogueCanvas_** contains the DialogueScript, which is what handles the actual display and scrolling of the text, as well as the user's interaction with it. It imports dialogue to be printed to the screen, does so according to the settings given in the inspector. It also prints potential answers (if the current dialogue provides the user with any options), accepts the user's input, and responds as you set it to in the inspector.
 
@@ -27,7 +27,7 @@ The DialogueContainer object decides the behaviour of the dialogue on a per-dial
 ## Inventory System
 The inventory system is modular in the sense that it functions independently of everything aside from the code used to store the data needed to create and add objects to the inventory. It allows the user to recieve elements that are added into their virtual inventory, allowing them to view it and browse through all previously acquired elements via the interface.  As is, the inventory is split into two sections: items and profiles. This, however, is easy to alter. Removing a line of code or two will restrict the menu to one single section, and changes may also be made to further section the invnetory into different parts as desired. The interface can be controlled both by keyboard and mouse-clicks.
 
-###How it works:
+### How it works:
 The general idea and set-up for the inventory system is not too unlike that of the dialogue system.
 The **_InvnetoryMenu_** script contains most of the code that makes the actual interface function, and allows the user to interact with it. It creates new objects, adds them to them to the list, and removes objects as needed. As it handles both the visuals and the user-input's effect on it, it also allows for all key-bindings to be selected to your liking through the inspector.
 
